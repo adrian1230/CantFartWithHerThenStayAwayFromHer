@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'FlutterFuxk',
+      title: 'FlutterFart',
       debugShowCheckedModeBanner: false,
       routes: Routes.getRoute(),
         onGenerateRoute: (settings) => Routes.onGenerateRoute(settings),
