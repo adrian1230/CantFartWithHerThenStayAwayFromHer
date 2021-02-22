@@ -1,8 +1,8 @@
 final userMapList = [
   {
-    "name": "Barbara Palvin",
+    "name": "",
     "type": "Super Super Model",
-    "image":"assets/images/bara.jpg",
+    "image":"assets/ima",
   },
   {
     "name": "Goldfish Saves the Planet",
@@ -17,6 +17,6 @@ final userMapList = [
   {
     "name": "Lovely Horizon",
     "type": "Hot Office Lady",
-    "image":"assets/images/anita.jpg",
+    "image":"asset",
   }
 ];
