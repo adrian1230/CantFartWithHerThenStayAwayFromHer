@@ -25,7 +25,7 @@ class _Splash extends State<Splash> {
           Container(
             decoration: BoxDecoration(
               image: DecorationImage(
-                image: AssetImage("assets/images/anita.jpg"),
+                image: AssetImage("asseg"),
                 fit: BoxFit.fill,
               ),
             ),
