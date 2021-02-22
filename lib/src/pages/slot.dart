@@ -35,7 +35,7 @@ class _Slot extends State<Slot> {
             decoration: BoxDecoration(
               color: Theme.of(context).backgroundColor,
             ),
-            child: Image.asset("assets/images/bara.jpg", fit: BoxFit.fill),
+            child: Image.asset("assets/i.jpg", fit: BoxFit.fill),
           ),
         ),
         SizedBox(width:15)
